@@ -1,0 +1,1 @@
+# Adjacent-Categories-and-Continuation-Ratio-Logit-Models-for-Ordinal-Outcomes
